@@ -1,3 +1,5 @@
+![Company Image](https://image.yes123.com.tw/enterprise_pict/p2/86/86698478_2015623_64800.jpg)
+
 # WorldGraphIQ
 
 A unified project exploring global population trends through comparative analysis, temporal forecasting, and socio-economic breakdowns.
