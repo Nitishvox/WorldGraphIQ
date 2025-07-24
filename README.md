@@ -1,4 +1,4 @@
-![Company Image](https://image.yes123.com.tw/enterprise_pict/p2/86/86698478_2015623_64800.jpg)
+![Company Image](https://hlb-poland.global/wp-content/uploads/2018/11/1105361_73037873-1170x550.jpg)
 
 # WorldGraphIQ
 
