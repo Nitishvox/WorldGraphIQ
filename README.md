@@ -18,6 +18,11 @@ Ranks growth intensity across borders and links income groups to demographic den
 Chronicles long-term population trajectories from 1960 to 2024.  
 Applies smoothing, time-series plots, and forecasting methods to reveal global momentum shifts.
 
+### 4. `DemographyIQ.ipynb`
+- Focuses on gender and age distribution across selected countries
+- Includes population pyramids, stacked bars, and heatmaps
+- Integrates predictive modeling to explore demographic futures and inequality indicators
+
 ## Data Source  
 World Bank Population Totals (via CSV download)  
 Country Metadata including Region, Income Group, and Notes
@@ -28,8 +33,8 @@ Country Metadata including Region, Income Group, and Notes
 ├── PopScope.ipynb
 ├── PeopleCount.ipynb
 ├── WorldPop_Insights.ipynb
+├── DemographyIQ.ipynb
 ├── world_population.csv
 ├── Meta_country.csv
 ├── README.md
 ├── requirements.txt
-
